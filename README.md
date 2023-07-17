@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jehan Sanju Balasuriya</h1>
-<h3 align="center">A passionate fullstack developer(Angular - Springboot) from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack developer(Angular - Springboot) from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjubalasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="sanjubalasuriya" /> </p>
 
 - 🔭 I’m currently working on **Seekers Cloud**
 
-- 🌱 I’m currently learning **Angular, React, Springboot and devops**
+- 🌱 I’m currently learning **Angular, React, Springboot and DevOps**
 
 - 📫 How to reach me **sanjubalasuriya2@gmail.com**
 
