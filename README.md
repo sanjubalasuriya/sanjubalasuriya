@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjubalasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="sanjubalasuriya" /> </p>
 
-- 🔭 I’m currently working on **Seekers Cloud**
-
 - 🌱 I’m currently learning **Angular, React, Springboot and DevOps**
 
 - 📫 How to reach me **sanjubalasuriya2@gmail.com**
